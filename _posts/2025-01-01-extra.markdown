@@ -14,3 +14,126 @@ description: Markdown summary with different options
 ---
 
 ## Summary:
+
+# Business–Risk Collaboration in Lending Institutions
+
+## 1. Background
+
+### Summary
+Financial institutions such as banks, NBFCs, and FinTechs depend heavily on two core teams: the Business team and the Risk team. Their coordination is essential for sustainable, compliant, and profitable operations.
+
+### Key Pointers
+- Business and Risk are foundational pillars of lending.  
+- Long‑term institutional stability depends on their alignment.  
+- This section introduces roles, gaps, and improvement areas.
+
+### Detail
+In lending-based institutions, both Business and Risk teams play complementary roles. Business focuses on growth, customer acquisition, and revenue, while Risk ensures financial stability, portfolio quality, and regulatory compliance. A strong connection between these two functions is essential to maintain smooth, long-term banking operations.
+
+---
+
+## 2. Role of the Business Team
+
+### Summary
+The Business team serves as the commercial engine of the bank—responsible for customer acquisition, relationship management, and translating customer needs into revenue while ensuring proposals align with internal policies and capital constraints.
+
+### Key Pointers
+- Leads customer acquisition, management, and product distribution.
+- Validates customer information using risk frameworks.
+- Balances customer needs with bank profitability goals.
+- Provides real‑time market intelligence and competitor insights.
+- Accountable for quality of sourced customers.
+- Ensures accurate and complete data capture at origination.
+- Acts as the voice of the customer for internal teams.
+
+### Detail
+The Business team acts as the bridge between customers and the bank. They promote various lending products, assess customer needs, gather documentation, and evaluate applications using internal eligibility frameworks. Their role extends beyond selling—ensuring accurate customer information, understanding market conditions, and providing insights that help Risk refine frameworks and policies.
+
+---
+
+## 3. Role of the Risk Team
+
+### Summary
+The Risk team ensures long-term financial stability by assessing credit quality, forecasting losses, and setting safeguards that protect capital during normal and stressed economic conditions.
+
+### Key Pointers
+- Monitors credit exposures and customer behavior.
+- Calculates Expected Loss (EL), Unexpected Loss (UL), and Economic Capital.
+- Ensures solvency during downturns.
+- Designs credit policies, scoring models, and early warning systems.
+- Tracks portfolio performance and identifies emerging risks.
+- Defines risk appetite in line with business strategy.
+- Ensures regulatory compliance and capital adequacy.
+
+### Detail
+Risk teams deeply analyze customer creditworthiness, macroeconomic trends, and historical performance to estimate potential losses. They also create and update policies, build scoring models, and track early warning indicators that help prevent and manage delinquencies. Their work ensures that the bank maintains a healthy balance between growth and risk.
+
+---
+
+## 4. Interconnection Between Business and Risk Teams
+
+### Summary
+Business and Risk teams depend on each other—Risk provides analytical tools and boundaries, while Business provides market intelligence and execution capabilities.
+
+### Key Pointers
+- Risk designs frameworks; Business uses them in real-world scenarios.
+- Business provides customer-level insights that complement model outputs.
+- Loan pricing, limits, and approvals require joint alignment.
+- Both teams contribute to portfolio quality.
+
+### Detail
+Risk frameworks help Business evaluate creditworthiness, while Business insights help Risk validate and refine those frameworks. Effective collaboration results in accurate pricing, healthier portfolios, and better regulatory adherence. Without strong collaboration, credit decisions become either overly restrictive or excessively risky.
+
+---
+
+## 5. Gaps Between the Business and Risk Teams
+
+### Summary
+Gaps emerge when Business prioritizes growth while Risk prioritizes protection. Miscommunication, limited interaction, and differing incentives widen this divide.
+
+### Key Pointers
+- Business targets volumes; Risk targets quality.
+- Lack of structured communication channels.
+- Incomplete or inconsistent data from Business.
+- Business perceives risk policies as restrictive.
+- Risk may build frameworks without enough field validation.
+- No shared ownership of customer outcomes.
+- Misaligned performance metrics.
+
+### Detail
+Business teams may overlook risk enhancement activities due to sales pressures. Meanwhile, Risk teams may rely too much on models without fully understanding current market dynamics. The absence of structured interaction and misaligned KPIs creates a disconnect that affects portfolio performance and customer experience.
+
+---
+
+## 6. Fixing the Relationship Between Business and Risk Teams
+
+### Summary
+A stronger Business–Risk partnership requires structured communication, joint decision-making, transparent data flow, and aligned performance metrics.
+
+### Key Pointers
+- Set recurring review meetings.
+- Ensure transparent and complete data flow.
+- Involve Business in model development and validation.
+- Train Business on regulatory and risk requirements.
+- Align incentives to balance growth and quality.
+- Jointly monitor portfolio performance.
+- Implement periodic cross-functional workshops.
+
+### Detail
+Building collaboration begins with scheduled touchpoints where both teams exchange insights and pain points. Business must deliver clean, accurate data while Risk ensures frameworks remain practical and updated. Joint involvement in model development improves usability and accuracy. Cross-training helps both teams understand each other’s priorities, fostering shared accountability.
+
+---
+
+## 7. Summary
+
+### Summary
+This document outlines how Business and Risk teams contribute to the functioning of lending institutions, the gaps that arise due to differing incentives, and the steps needed to strengthen collaboration for sustainable growth.
+
+### Key Pointers
+- Business and Risk have distinct but interdependent roles.
+- Gaps arise from miscommunication and misaligned objectives.
+- Collaboration improves portfolio quality, compliance, and efficiency.
+
+### Detail
+Business drives customer-facing operations, while Risk ensures financial health. When aligned, they create a robust banking ecosystem; when misaligned, they introduce inefficiencies and portfolio risks. Strengthening collaboration ensures better decision-making, healthier portfolios, and regulatory compliance.
+
