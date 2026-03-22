@@ -20,7 +20,8 @@ resume: true
 resume-external: true
 resume-url: https://1drv.ms/b/c/d2339f0ee30157b1/IQAwu1sSy3DcSJNqgJQA6mz0AQu44ARDKCcZVpVa9TJ44cU?e=zMtXMg
 
-url: https://sergiokopplin.github.io/indigo
+# url: https://sergiokopplin.github.io/indigo
+url: https://rajatagstats.github.io/indigo/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
