@@ -14,7 +14,7 @@ description: Markdown summary with different options
 ---
 
 ## Summary:
-
+---
 # Business–Risk Collaboration in Lending Institutions
 
 ## 1. Background
