@@ -11,7 +11,7 @@ tag:
 - Credit risk
 - Risk-Business team collaboration
 category: blog
-author: Rajat Agarwal
+author: johndoe
 description: Strengthining collaboration between business and risk in banking
 ---
 
