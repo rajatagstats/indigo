@@ -1,6 +1,6 @@
 ---
 title: "Common Elements"
-layout: post
+layout: 
 date: 2016-02-27 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
